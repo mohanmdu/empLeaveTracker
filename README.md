@@ -53,7 +53,3 @@ Manual process:
 CLASS DIAGRAM
 
  
- 
- Github Link:
-- [x] Backend: https://github.com/ashrawan/employee-leave-management
-- [ ] Frontend: https://github.com/ashrawan/leave-management-angular
