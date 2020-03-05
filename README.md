@@ -1,6 +1,5 @@
 ## Employee Leave Management System
 
-#### Working Demo: https://ashrawan.github.io/leave-management-angular/
 
 # Test Credentials:
 
@@ -53,9 +52,6 @@ Manual process:
 
 CLASS DIAGRAM
 
- 
-  
-**![](https://lh6.googleusercontent.com/tL6LIniTCrbQqbc-c_5lecXCaJdPveXW44Vl2w2_XJG9jRTps5_WsgXz-bkUqmLO9vMTp90cIPBIaFepTfXktv2Imr0XBprUbR0pFdVw4nvjJLrNBgu0_8U7oJDXama4LKiovA8-)**  
  
  
  Github Link:
